@@ -42,7 +42,7 @@ const Footer = () => {
               />
             </div>
             <span className="ml-3 text-xl md:text-2xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-red-400 bg-clip-text text-transparent animate-gradient">
-              Sakshi Jain
+              Coder
             </span>
           </div>
 
@@ -96,7 +96,7 @@ const Footer = () => {
               <span className="inline-block animate-pulse text-pink-500">♥</span>{' '}
               by{' '}
               <span className="font-semibold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-                a coder girl who builds dreams
+                a coder who builds dreams
               </span>
             </p>
             <p className="text-sm text-gray-500">
